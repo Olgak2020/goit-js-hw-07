@@ -36,8 +36,8 @@ const imageList = images
 
 
 
-//  imagesEl.style.display = 'flexbox';
-//  imagesEl.style.flexDirection = 'wrap';
-//  imagesEl.style.gap = '10';
-//  imagesEl.style.padding = '0';
+  imagesEl.style.display = 'flexbox';
+ imagesEl.style.flexDirection = 'wrap';
+  imagesEl.style.gap = '10';
+  imagesEl.style.padding = '0';
 
